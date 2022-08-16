@@ -103,10 +103,10 @@
   <tbody>
    <tr>
       <td>1.</td>
-      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
-      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
-      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
-      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/Po3_B_GT.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/Po3_B_base.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/Po3_B_RGC.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/Po3_B_RTL.wav"></audio></td>
     </tr>
     <tr>
       <td>2.</td>
