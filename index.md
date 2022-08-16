@@ -24,7 +24,7 @@
 <div style="text-align: justify"> All samples are synthesized with the pretrained vocoders.</div>
 
 **Target Singing Technique**
-<div style="text-align: justify"> Samples of training data for each singing tehchnique.</div>
+<div style="text-align: justify"> Samples of singing tehchniques.</div>
 ---
 <table>
   <thead>
@@ -54,7 +54,7 @@
 ---
 
 **Source Natural Singing**
-<div style="text-align: justify"> Samples of training data for natural singing.</div>
+<div style="text-align: justify"> Samples of natural singing.</div>
 <table>
   <thead>
     <tr>
@@ -87,7 +87,7 @@
 
 ## Comparison with Different Frameworks
 
-**Target:aaaaa Breathy**
+**Target: Breathy**
 
 
 <table align="center">
