@@ -21,6 +21,7 @@
 
 
 ## Audio Samples
+<div style="text-align: justify"> All samples are synthesized with the pretrained vocoders.</div>
 
 **Target Singing Technique**
 <div style="text-align: justify"> Samples of training data for each singing tehchnique.</div>
@@ -63,7 +64,17 @@
   </thead>
   <tbody>
     <tr>
-      <td>F1</td>
+      <td>1.</td>
+      <td><audio controls="" preload="auto">
+            <source src="source_waves/natural_singing.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td><audio controls="" preload="auto">
+            <source src="source_waves/natural_singing.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>3.</td>
       <td><audio controls="" preload="auto">
             <source src="source_waves/natural_singing.wav"></audio></td>
     </tr>
