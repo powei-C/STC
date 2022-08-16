@@ -84,7 +84,7 @@
     <tr>
       <th>Sample</th>
       <th>Source Input</th>
-      <th>Base</th>
+      <th>$Base$</th>
       <th>$M_{w/o}$</th>
       <th>$M_{w/}$</th>
     </tr>
@@ -131,7 +131,7 @@
     <tr>
       <th>Sample</th>
       <th>Source Input</th>
-      <th>Base</th>
+      <th>$Base$</th>
       <th>$M_{w/o}$</th>
       <th>$M_{w/}$</th>
     </tr>
@@ -178,7 +178,7 @@
     <tr>
       <th>Sample</th>
       <th>Source Input</th>
-      <th>Base</th>
+      <th>$Base$</th>
       <th>$M_{w/o}$</th>
       <th>$M_{w/}$</th>
     </tr>
