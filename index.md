@@ -96,8 +96,8 @@
       <th>Sample</th>
       <th>Source Input</th>
       <th><img src="https://render.githubusercontent.com/render/math?math=Base"></th>
-      <th><img src="https://render.githubusercontent.com/render/math?math=M_w/o"></th>
-      <th><img src="https://render.githubusercontent.com/render/math?math=M_w/"></th>
+      <th><img src="https://render.githubusercontent.com/render/math?math=M_A{w\/o}"></th>
+      <th><img src="https://render.githubusercontent.com/render/math?math=M_{w\/}"></th>
     </tr>
   </thead>
   <tbody>
