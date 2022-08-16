@@ -95,9 +95,9 @@
     <tr>
       <th>Sample</th>
       <th>Source Input</th>
-      <th><img src="https://render.githubusercontent.com/render/math?math=Base"></th>
-      <th>$$M_{w/o}$$</th>
-      <th><img src="https://render.githubusercontent.com/render/math?math=M_{w}"></th>
+      <th>Baseline</th>
+      <th>Mw/o</th>
+      <th>Mw/</th>
     </tr>
   </thead>
   <tbody>
@@ -142,9 +142,9 @@
     <tr>
       <th>Sample</th>
       <th>Source Input</th>
-      <th>$Base$</th>
-      <th>$M_{w/o}$</th>
-      <th>$M_{w/}$</th>
+      <th>Baseline</th>
+      <th>Mw/o</th>
+      <th>Mw/</th>
     </tr>
   </thead>
   <tbody>
@@ -189,9 +189,9 @@
     <tr>
       <th>Sample</th>
       <th>Source Input</th>
-      <th>$Base$</th>
-      <th>$M_{w/o}$</th>
-      <th>$M_{w/}$</th>
+      <th>Baseline</th>
+      <th>Mw/o</th>
+      <th>Mw/</th>
     </tr>
   </thead>
   <tbody>
