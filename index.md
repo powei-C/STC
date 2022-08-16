@@ -95,9 +95,9 @@
     <tr>
       <th>Sample</th>
       <th>Source Input</th>
-      <th><img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1"></th>
-      <th>$M_{w/o}$</th>
-      <th>$M_{w/}$</th>
+      <th><img src="https://render.githubusercontent.com/render/math?math=Base"></th>
+      <th><img src="https://render.githubusercontent.com/render/math?math=M_{w/o}"></th>
+      <th><img src="https://render.githubusercontent.com/render/math?math=M_{w/}"></th>
     </tr>
   </thead>
   <tbody>
