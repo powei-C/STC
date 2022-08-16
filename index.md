@@ -76,7 +76,7 @@
 
 ## Comparison with Different Frameworks
 
-**Target Breathy**
+**Target:aaaaa Breathy**
 
 
 <table align="center">
@@ -85,8 +85,8 @@
       <th>Sample</th>
       <th>Source Input</th>
       <th>Base</th>
-      <th>$$M_{w/o}$$</th>
-      <th>$$M_{w/}$$</th>
+      <th>$M_{w/o}$</th>
+      <th>$M_{w/}$</th>
     </tr>
   </thead>
   <tbody>
@@ -123,7 +123,7 @@
 ---
 
 
-**Target Vocal Fry**
+**Target: Vocal Fry**
 
 
 <table align="center">
@@ -132,8 +132,8 @@
       <th>Sample</th>
       <th>Source Input</th>
       <th>Base</th>
-      <th>$$M_{w/o}$$</th>
-      <th>$$M_{w/}$$</th>
+      <th>$M_{w/o}$</th>
+      <th>$M_{w/}$</th>
     </tr>
   </thead>
   <tbody>
@@ -170,7 +170,7 @@
 ---
 
 
-**Target Vibrato**
+**Target: Vibrato**
 
 
 <table align="center">
@@ -179,8 +179,8 @@
       <th>Sample</th>
       <th>Source Input</th>
       <th>Base</th>
-      <th>$$M_{w/o}$$</th>
-      <th>$$M_{w/}$$</th>
+      <th>$M_{w/o}$</th>
+      <th>$M_{w/}$</th>
     </tr>
   </thead>
   <tbody>
