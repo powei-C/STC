@@ -1,8 +1,3 @@
-<!-- MathJax -->
-    <script type="text/javascript"
-      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-    </script>
-
 # <center> STC</center>
 <center>Powei Chen</center><br>
 <center>City, Country</center> 
@@ -100,7 +95,7 @@
     <tr>
       <th>Sample</th>
       <th>Source Input</th>
-      <th>$Base$</th>
+      <th><img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1"></th>
       <th>$M_{w/o}$</th>
       <th>$M_{w/}$</th>
     </tr>
