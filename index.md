@@ -1,37 +1,213 @@
-## Welcome to GitHub Pages
+# <center> STC</center>
+<center>Powei Chen</center><br>
+<center>City, Country</center> 
+<br>
 
-You can use the [editor on GitHub](https://github.com/powei-C/STC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Abstract
+<div style="text-align: justify"> STC </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
 
-### Markdown
+## Model Architecture
+<table border="0">
+  <tbody>
+    <tr>
+      <td><img src="figs/Proposed_FW.pdf" alt="Overall Architecture"></td>
+    </tr>
+  </tbody>
+</table>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Audio Samples
 
-- Bulleted
-- List
+**Target Singing Technique**
+<div style="text-align: justify"> Samples of training data for each singing tehchnique.</div>
+---
+<table>
+  <thead>
+    <tr>
+      <th>Target</th>
+      <th>Samples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Breathy</td>
+      <td><audio controls="" preload="auto">
+            <source src="target_waves/breathy.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>Vocal Fry</td>
+      <td><audio controls="" preload="auto">
+            <source src="target_waves/vocal_fry.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>Vibrato</td>
+      <td><audio controls="" preload="auto">
+            <source src="target_waves/vibrato.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+---
 
-1. Numbered
-2. List
+**Source Natural Singing**
+<div style="text-align: justify"> Samples of training data for natural singing.</div>
+<table>
+  <thead>
+    <tr>
+      <th>Source</th>
+      <th>Samples</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>F1</td>
+      <td><audio controls="" preload="auto">
+            <source src="source_waves/natural_singing.wav"></audio></td>
+    </tr>
 
-**Bold** and _Italic_ and `Code` text
+  </tbody>
+</table>
+---
 
-[Link](url) and ![Image](src)
-```
+<br>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Comparison with Different Frameworks
 
-### Jekyll Themes
+**Target Breathy**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/powei-C/STC/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<table align="center">
+  <thead>
+    <tr>
+      <th>Sample</th>
+      <th>Source Input</th>
+      <th>Base</th>
+      <th>$$M_{w/o}$$</th>
+      <th>$$M_{w/}$$</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td>1.</td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+---
+**Target Vocal Fry**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Sample</th>
+      <th>Source Input</th>
+      <th>Base</th>
+      <th>$$M_{w/o}$$</th>
+      <th>$$M_{w/}$$</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td>1.</td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+---
+**Target Vibrato**
+
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Sample</th>
+      <th>Source Input</th>
+      <th>Base</th>
+      <th>$$M_{w/o}$$</th>
+      <th>$$M_{w/}$$</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td>1.</td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>2.</td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>3.</td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>4.</td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/a.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
+
