@@ -21,7 +21,7 @@
 
 
 ## Audio Samples
-<div style="text-align: justify"> All samples are synthesized with the pretrained vocoders.</div>
+<div style="text-align: justify"> All samples are synthesized with the pretrained vocoders, where the breathy singing is synthesized by the HiFi-GAN vocoder and the others are synthesized by the MelGAN vocoder.</div>
 
 **Target Singing Technique**
 <div style="text-align: justify"> Samples of singing tehchniques.</div>
@@ -37,17 +37,17 @@
     <tr>
       <td>Breathy</td>
       <td><audio controls="" preload="auto">
-            <source src="target_waves/breathy.wav"></audio></td>
+            <source src="target_waves/Sample_Breathy.wav"></audio></td>
     </tr>
     <tr>
       <td>Vocal Fry</td>
       <td><audio controls="" preload="auto">
-            <source src="target_waves/vocal_fry.wav"></audio></td>
+            <source src="target_waves/Sample_VocalFry.wav"></audio></td>
     </tr>
     <tr>
       <td>Vibrato</td>
       <td><audio controls="" preload="auto">
-            <source src="target_waves/vibrato.wav"></audio></td>
+            <source src="target_waves/Sample_Vibrato.wav"></audio></td>
     </tr>
   </tbody>
 </table>
@@ -64,19 +64,24 @@
   </thead>
   <tbody>
     <tr>
-      <td>1.</td>
+      <td>1. (HiFiGAN vocoder)</td>
       <td><audio controls="" preload="auto">
-            <source src="source_waves/natural_singing.wav"></audio></td>
+            <source src="source_waves/HIFINS.wav"></audio></td>
     </tr>
     <tr>
-      <td>2.</td>
+      <td>1. (MelGAN vocoder)</td>
       <td><audio controls="" preload="auto">
-            <source src="source_waves/natural_singing.wav"></audio></td>
+            <source src="source_waves/MELNS.wav"></audio></td>
     </tr>
     <tr>
-      <td>3.</td>
+      <td>2. (HiFiGAN vocoder)</td>
       <td><audio controls="" preload="auto">
-            <source src="source_waves/natural_singing.wav"></audio></td>
+            <source src="source_waves/HIFINS2.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>2. (MelGAN vocoder)</td>
+      <td><audio controls="" preload="auto">
+            <source src="source_waves/MELNS2.wav"></audio></td>
     </tr>
 
   </tbody>
