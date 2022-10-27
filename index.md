@@ -198,7 +198,7 @@
 **Target: Vibrato**
 
 
-<table align="center" style="width: 650px;border-collapse: collapse;table-layout: fixed;">
+<table align="center" style="width: 800px;table-layout: fixed;">
   <thead>
     <tr>
       <th>Lyrics</th>
@@ -210,7 +210,7 @@
   </thead>
   <tbody>
    <tr>
-      <td style="width: 250px"><ruby>不能覺得足夠<rt>bù néng jué dé zú gòu</rt></ruby></td>
+      <td style="width: 400px"><ruby>不能覺得足夠<rt>bù néng jué dé zú gòu</rt></ruby></td>
       <td style="width: 100px"><audio controls="" preload="auto"><source src="sample/Po3_VB_GT.wav"></audio></td>
       <td style="width: 100px"><audio controls="" preload="auto"><source src="sample/Po3_VB_base.wav"></audio></td>
       <td style="width: 100px"><audio controls="" preload="auto"><source src="sample/Po3_VB_RGC.wav"></audio></td>
