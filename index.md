@@ -93,7 +93,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>Lyrics</th>
+      <th>          Lyrics          </th>
       <th>Source Input</th>
       <th>Baseline</th>
       <th>Mw/o</th>
@@ -102,7 +102,7 @@
   </thead>
   <tbody>
     <tr>
-      <td width="50%"><ruby>天上的星星笑地上的人<rt>tiān shàng de xīng xīng xiào dì shàng de rén</rt></ruby>   </td>
+      <td><ruby>天上的星星笑地上的人<rt>tiān shàng de xīng xīng xiào dì shàng de rén</rt></ruby>   </td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RGC.wav"></audio></td>
