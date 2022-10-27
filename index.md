@@ -1,10 +1,12 @@
-# <center> STC</center>
-<center>Powei Chen</center><br>
-<center>City, Country</center> 
+# <center>A FEW SHOT LEARNING OF SINGING TECHNIQUE CONVERSION BASED ON CYCLE CONSISTENCY GENERATIVE ADVERSARIAL NETWORKS</center>
+<center>Po-Wei Chen, Von-Wen Soo</center><br>
+<center>NTHU, Taiwan, R.O.C</center> 
 <br>
 
 ## Abstract
-<div style="text-align: justify"> STC </div>
+<div style="text-align: justify"> Submit to ICASSP 2023. Under Review
+
+ </div>
 
 <br>
 
@@ -12,7 +14,8 @@
 <table border="0">
   <tbody>
     <tr>
-      <td><img src="figs/Proposed_FW.pdf" alt="Overall Architecture"></td>
+      <td><img src="figs/Proposed_FW.pdf" alt="Details of the framework are presented in our manuscript."></td>
+      
     </tr>
   </tbody>
 </table>
@@ -91,7 +94,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>Sample</th>
+      <th>Lyrics</th>
       <th>Source Input</th>
       <th>Baseline</th>
       <th>Mw/o</th>
@@ -100,35 +103,35 @@
   </thead>
   <tbody>
    <tr>
-      <td>1.</td>
+      <td>1. 天上的星星笑地上的人</td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>2.</td>
+      <td>2. 原來心疼我我那時候不懂</td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>3.</td>
+      <td>3. 想到就心酸</td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>4.</td>
+      <td>4. 到後來才發現愛你是一種習慣</td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>5.</td>
+      <td>5. 可是我真的不夠勇敢</td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_GT2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_base2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RGC2.wav"></audio></td>
@@ -145,7 +148,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>Sample</th>
+      <th>Lyrics</th>
       <th>Source Input</th>
       <th>Baseline</th>
       <th>Mw/o</th>
@@ -154,35 +157,35 @@
   </thead>
   <tbody>
    <tr>
-      <td>1.</td>
+      <td>1. 怎麼去擁有一道彩虹</td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_RTL.wav"></audio></td>
     </tr>
    <tr>
-      <td>2.</td>
+      <td>2. 是一種習慣</td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VF_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VF_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VF_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VF_RTL.wav"></audio></td>
     </tr>
    <tr>
-      <td>3.</td>
+      <td>3. 一夏天的風</td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VF_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VF_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VF_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VF_RTL.wav"></audio></td>
     </tr>
    <tr>
-      <td>4.</td>
+      <td>4. 我卻錯手毀掉</td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VF_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VF_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VF_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VF_RTL.wav"></audio></td>
     </tr>
    <tr>
-      <td>5.</td>
+      <td>5. 一夏天的風</td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_GT2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_base2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_RGC2.wav"></audio></td>
@@ -199,7 +202,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>Sample</th>
+      <th>Lyrics</th>
       <th>Source Input</th>
       <th>Baseline</th>
       <th>Mw/o</th>
@@ -208,35 +211,35 @@
   </thead>
   <tbody>
    <tr>
-      <td>1.</td>
+      <td>1. 不能覺得足夠</td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VB_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VB_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VB_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VB_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>2.</td>
+      <td>2. 假如我年少有為不</td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>3.</td>
+      <td>3. 怎麼去收藏</td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VB_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VB_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VB_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VB_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>4.</td>
+      <td>4. 該是甚麼模樣</td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VB_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VB_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VB_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VB_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>5.</td>
+      <td>5. 原來心疼我我那時候不懂</td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_GT2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_base2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_RGC2.wav"></audio></td>
