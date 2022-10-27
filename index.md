@@ -93,7 +93,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th><pre>          Lyrics          </pre></th>
+      <th>　　　　　　　　　Lyrics　　　　　　　　　</pre></th>
       <th>Source Input</th>
       <th>Baseline</th>
       <th>Mw/o</th>
@@ -147,7 +147,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>Lyrics</th>
+      <th>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Lyrics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
       <th>Source Input</th>
       <th>Baseline</th>
       <th>Mw/o</th>
@@ -156,7 +156,7 @@
   </thead>
   <tbody>
    <tr>
-      <td width="250px"><ruby>怎麼去擁有一道彩虹<rt>zěn me qù yōng yǒu yī dào cǎi hóng</rt></ruby></td>
+      <td><ruby>怎麼去擁有一道彩虹<rt>zěn me qù yōng yǒu yī dào cǎi hóng</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_RGC.wav"></audio></td>
