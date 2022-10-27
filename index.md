@@ -103,7 +103,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><div style="width: 300px;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;"><ruby>天上的星星笑地上的人<rt>tiān shàng de xīng xīng xiào dì shàng de rén</rt></ruby></td>
+      <td width="300">><ruby>天上的星星笑地上的人<rt>tiān shàng de xīng xīng xiào dì shàng de rén</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RGC.wav"></audio></td>
