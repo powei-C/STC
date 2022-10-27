@@ -103,7 +103,7 @@
   </thead>
   <tbody>
    <tr>
-      <td>1. 天上的星星笑地上的人 tiān shàng de xīng xīng xiào dì shàng de rén </td>
+      <td>1. 天上的星星笑地上的人tiān shàng de xīng xīng xiào dì shàng de rén </td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RGC.wav"></audio></td>
