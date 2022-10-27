@@ -198,7 +198,7 @@
 **Target: Vibrato**
 
 
-<table width="50%" style="table-layout:fixed;align="center">
+<table width="50%";align="center">
   <thead>
     <tr>
       <th>Lyrics</th>
