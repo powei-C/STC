@@ -102,14 +102,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><ruby>天上的星星笑地上的人<rt>tiān shàng de xīng xīng xiào dì shàng de rén</rt></ruby>　　　</td>
+      <td><ruby>天上的星星笑地上的人<rt>tiān shàng de xīng xīng xiào dì shàng de rén</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td><ruby>原來心疼我我那時候不懂<rt>yuán lái xīn téng wǒ wǒ nà shí hòu bù dǒng</rt></ruby>&emsp;&emsp;&emsp;</td>
+      <td><ruby>原來心疼我我那時候不懂<rt>yuán lái xīn téng wǒ wǒ nà shí hòu bù dǒng</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_RGC.wav"></audio></td>
@@ -123,7 +123,7 @@
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td><ruby>到 後 來 才 發 現 愛 你 是 一 種 習 慣<rt>dào hòu lái cái fā xiàn ài nǐ shì yī zhǒng xí guàn</rt></ruby>&emsp;&emsp;</td>
+      <td><ruby>到後來才發現愛你是一種習慣<rt>dào hòu lái cái fā xiàn ài nǐ shì yī zhǒng xí guàn</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RGC.wav"></audio></td>
@@ -147,7 +147,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>Lyrics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+      <th>&emsp;Lyrics&emsp;</th>
       <th>Source Input</th>
       <th>Baseline</th>
       <th>Mw/o</th>
@@ -210,7 +210,7 @@
   </thead>
   <tbody>
    <tr>
-      <td style="width: 400px"><ruby>不能覺得足夠<rt>bù néng jué dé zú gòu</rt></ruby></td>
+      <td style="width: 800px"><ruby>不能覺得足夠<rt>bù néng jué dé zú gòu</rt></ruby></td>
       <td style="width: 100px"><audio controls="" preload="auto"><source src="sample/Po3_VB_GT.wav"></audio></td>
       <td style="width: 100px"><audio controls="" preload="auto"><source src="sample/Po3_VB_base.wav"></audio></td>
       <td style="width: 100px"><audio controls="" preload="auto"><source src="sample/Po3_VB_RGC.wav"></audio></td>
