@@ -93,7 +93,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>          Lyrics          </th>
+      <th>.          Lyrics          .</th>
       <th>Source Input</th>
       <th>Baseline</th>
       <th>Mw/o</th>
