@@ -109,7 +109,7 @@
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td><ruby>原來心疼我我那時候不懂<rt>yuán lái xīn téng wǒ wǒ nà shí hòu bù dǒng</rt></ruby>　　　</td>
+      <td><ruby>原來心疼我我那時候不懂<rt>yuán lái xīn téng wǒ wǒ nà shí hòu bù dǒng</rt></ruby>&emsp;&emsp;&emsp;</td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_RGC.wav"></audio></td>
@@ -123,7 +123,7 @@
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td><ruby>到後來才發現愛你是一種習慣<rt>dào hòu lái cái fā xiàn ài nǐ shì yī zhǒng xí guàn</rt></ruby>　　　</td>
+      <td><ruby>到 後 來 才 發 現 愛 你 是 一 種 習 慣<rt>dào hòu lái cái fā xiàn ài nǐ shì yī zhǒng xí guàn</rt></ruby>&emsp;&emsp;</td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RGC.wav"></audio></td>
@@ -198,7 +198,7 @@
 **Target: Vibrato**
 
 
-<table align="center" style="width: 800px;table-layout: fixed;">
+<table align="center" style="width: 1200px;table-layout: fixed;">
   <thead>
     <tr>
       <th>Lyrics</th>
