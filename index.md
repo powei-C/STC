@@ -155,15 +155,8 @@
     </tr>
   </thead>
   <tbody>
-   <tr style="visibility: hidden;">
-      	<td width="250px">
-      	<td width="100px">
-      	<td width="100px">
-      	<td width="100px">
-      	<td width="100px">
-   </tr>
    <tr>
-      <tdaaaaaaaaaaaaaaaaaaaa><ruby>怎麼去擁有一道彩虹<rt>zěn me qù yōng yǒu yī dào cǎi hóng</rt></ruby></td>
+      <td width="250px"><ruby>怎麼去擁有一道彩虹<rt>zěn me qù yōng yǒu yī dào cǎi hóng</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_RGC.wav"></audio></td>
