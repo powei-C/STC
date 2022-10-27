@@ -93,7 +93,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>　　　　　　　　　Lyrics　　　　　　　　　</pre></th>
+      <th>　　　　　　　　　Lyrics　　　　　　　　　</th>
       <th>Source Input</th>
       <th>Baseline</th>
       <th>Mw/o</th>
@@ -147,7 +147,7 @@
 <table align="center">
   <thead>
     <tr>
-      <th>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Lyrics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
+      <th>Lyrics&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</th>
       <th>Source Input</th>
       <th>Baseline</th>
       <th>Mw/o</th>
@@ -198,7 +198,7 @@
 **Target: Vibrato**
 
 
-<table align="center">
+<table width="50%" style="table-layout:fixed;word-break:break-all;align="center">
   <thead>
     <tr>
       <th>Lyrics</th>
@@ -210,7 +210,7 @@
   </thead>
   <tbody>
    <tr>
-      <td width="350"><ruby>不能覺得足夠<rt>bù néng jué dé zú gòu</rt></ruby></td>
+      <td width="50%"><ruby>不能覺得足夠<rt>bù néng jué dé zú gòu</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VB_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VB_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VB_RGC.wav"></audio></td>
