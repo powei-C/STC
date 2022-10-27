@@ -103,35 +103,35 @@
   </thead>
   <tbody>
    <tr>
-      <td>1. 天上的星星笑地上的人</td>
+      <td>1. 天上的星星笑地上的人 tiān shàng de xīng xīng xiào dì shàng de rén </td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>2. 原來心疼我我那時候不懂</td>
+      <td>2. 原來心疼我我那時候不懂 yuán lái xīn téng wǒ wǒ nà shí hòu bù dǒng</td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>3. 想到就心酸</td>
+      <td>3. 想到就心酸 xiǎng dào jiù xīn suān</td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>4. 到後來才發現愛你是一種習慣</td>
+      <td>4. 到後來才發現愛你是一種習慣 dào hòu lái cái fā xiàn ài nǐ shì yī zhǒng xí guàn</td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>5. 可是我真的不夠勇敢</td>
+      <td>5. 可是我真的不夠勇敢 kě shì wǒ zhēn de bù gòu yǒng gǎn</td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_GT2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_base2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RGC2.wav"></audio></td>
