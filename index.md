@@ -103,35 +103,35 @@
   </thead>
   <tbody>
    <tr>
-      <td>1. <ruby>天上的星星笑地上的人<rt>tiān shàng de xīng xīng xiào dì shàng de rén</rt></ruby> </td>
+      <td><ruby>天上的星星笑地上的人<rt>tiān shàng de xīng xīng xiào dì shàng de rén</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>2. 原來心疼我我那時候不懂 yuán lái xīn téng wǒ wǒ nà shí hòu bù dǒng</td>
+      <td><ruby>原來心疼我我那時候不懂<rt>yuán lái xīn téng wǒ wǒ nà shí hòu bù dǒng</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>3. 想到就心酸 xiǎng dào jiù xīn suān</td>
+      <td><ruby>想到就心酸<rt>xiǎng dào jiù xīn suān</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>4. 到後來才發現愛你是一種習慣 dào hòu lái cái fā xiàn ài nǐ shì yī zhǒng xí guàn</td>
+      <td><ruby>到後來才發現愛你是一種習慣<rt>dào hòu lái cái fā xiàn ài nǐ shì yī zhǒng xí guàn</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>5. 可是我真的不夠勇敢 kě shì wǒ zhēn de bù gòu yǒng gǎn</td>
+      <td><ruby>可是我真的不夠勇敢<rt>kě shì wǒ zhēn de bù gòu yǒng gǎn</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_GT2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_base2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RGC2.wav"></audio></td>
@@ -157,35 +157,35 @@
   </thead>
   <tbody>
    <tr>
-      <td>1. 怎麼去擁有一道彩虹</td>
+      <td><ruby>怎麼去擁有一道彩虹<rt>zěn me qù yōng yǒu yī dào cǎi hóng</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_RTL.wav"></audio></td>
     </tr>
    <tr>
-      <td>2. 是一種習慣</td>
+      <td><ruby>是一種習慣<rt>shì yī zhǒng xí guàn</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VF_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VF_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VF_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VF_RTL.wav"></audio></td>
     </tr>
    <tr>
-      <td>3. 一夏天的風</td>
+      <td><ruby>一夏天的風<rt>yī xià tiān de fēng</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VF_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VF_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VF_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VF_RTL.wav"></audio></td>
     </tr>
    <tr>
-      <td>4. 我卻錯手毀掉</td>
+      <td><ruby>我卻錯手毀掉<rt>wǒ què cuò shǒu huǐ diào</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VF_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VF_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VF_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VF_RTL.wav"></audio></td>
     </tr>
    <tr>
-      <td>5. 一夏天的風</td>
+      <td><ruby>一夏天的風<rt>yī xià tiān de fēng</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_GT2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_base2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_RGC2.wav"></audio></td>
@@ -211,35 +211,35 @@
   </thead>
   <tbody>
    <tr>
-      <td>1. 不能覺得足夠</td>
+      <td><ruby>不能覺得足夠<rt>bù néng jué dé zú gòu</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VB_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VB_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VB_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VB_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>2. 假如我年少有為不</td>
+      <td><ruby>假如我年少有為不<rt>jiǎ rú wǒ nián shǎo yǒu wéi bù</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>3. 怎麼去收藏</td>
+      <td><ruby>怎麼去收藏<rt>zěn me qù shōu cáng</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VB_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VB_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VB_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po4_VB_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>4. 該是甚麼模樣</td>
+      <td><ruby>該是甚麼模樣<rt>gāi shì shèn me mó yàng</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VB_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VB_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VB_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_VB_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>5. 原來心疼我我那時候不懂</td>
+      <td><ruby>原來心疼我我那時候不懂<rt>yuán lái xīn téng wǒ wǒ nà shí hòu bù dǒng</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_GT2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_base2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_RGC2.wav"></audio></td>
