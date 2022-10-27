@@ -198,7 +198,7 @@
 **Target: Vibrato**
 
 
-<table align="center" width="100%">
+<table align="center" style="width: 650px;border-collapse: collapse;table-layout: fixed;">
   <thead>
     <tr>
       <th>Lyrics</th>
@@ -210,11 +210,11 @@
   </thead>
   <tbody>
    <tr>
-      <td width="60%"><ruby>不能覺得足夠<rt>bù néng jué dé zú gòu</rt></ruby></td>
-      <td width="10%"><audio controls="" preload="auto"><source src="sample/Po3_VB_GT.wav"></audio></td>
-      <td width="10%"><audio controls="" preload="auto"><source src="sample/Po3_VB_base.wav"></audio></td>
-      <td width="10%"><audio controls="" preload="auto"><source src="sample/Po3_VB_RGC.wav"></audio></td>
-      <td width="10%"><audio controls="" preload="auto"><source src="sample/Po3_VB_RTL.wav"></audio></td>
+      <td style="width: 250px"><ruby>不能覺得足夠<rt>bù néng jué dé zú gòu</rt></ruby></td>
+      <td style="width: 100px"><audio controls="" preload="auto"><source src="sample/Po3_VB_GT.wav"></audio></td>
+      <td style="width: 100px"><audio controls="" preload="auto"><source src="sample/Po3_VB_base.wav"></audio></td>
+      <td style="width: 100px"><audio controls="" preload="auto"><source src="sample/Po3_VB_RGC.wav"></audio></td>
+      <td style="width: 100px"><audio controls="" preload="auto"><source src="sample/Po3_VB_RTL.wav"></audio></td>
     </tr>
     <tr>
       <td><ruby>假如我年少有為不<rt>jiǎ rú wǒ nián shǎo yǒu wéi bù</rt></ruby></td>
