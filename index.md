@@ -156,7 +156,7 @@
   </thead>
   <tbody>
    <tr>
-      <td><ruby>怎麼去擁有一道彩虹<rt>zěn me qù yōng yǒu yī dào cǎi hóng</rt></ruby></td>
+      <td nowrap="nowrap"><ruby>怎麼去擁有一道彩虹<rt>zěn me qù yōng yǒu yī dào cǎi hóng</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_VF_RGC.wav"></audio></td>
@@ -238,7 +238,7 @@
       <td><audio controls="" preload="auto"><source src="sample/Po2_VB_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td>
+      <td nowrap="nowrap">
        <ruby>原<rt>yuán</rt></ruby>
        <ruby>來<rt>lái</rt></ruby>
        <ruby>心<rt>xīn</rt></ruby>
