@@ -238,7 +238,19 @@
       <td><audio controls="" preload="auto"><source src="sample/Po2_VB_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td><ruby>原來心疼我我那時候不懂<rt>yuán lái xīn téng wǒ wǒ nà shí hòu bù dǒng</rt></ruby></td>
+      <td>
+       <ruby>原<rt>yuán</rt></ruby>
+       <ruby>來<rt>lái</rt></ruby>
+       <ruby>心<rt>xīn</rt></ruby>
+       <ruby>疼<rt>téng</rt></ruby>
+       <ruby>我<rt>wǒ</rt></ruby>
+       <ruby>我<rt>wǒ</rt></ruby>
+       <ruby>那<rt>nà</rt></ruby>
+       <ruby>時<rt>shí</rt></ruby>
+       <ruby>候<rt>hòu</rt></ruby>
+       <ruby>不<rt>bù</rt></ruby>
+       <ruby>懂<rt>dǒng</rt></ruby>
+      </td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_GT2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_base2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_RGC2.wav"></audio></td>
