@@ -102,14 +102,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><ruby>天上的星星笑地上的人<rt>tiān shàng de xīng xīng xiào dì shàng de rén</rt></ruby></td>
+      <td nowrap="nowrap"><ruby>天上的星星笑地上的人<rt>tiān shàng de xīng xīng xiào dì shàng de rén</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po3_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td><ruby>原來心疼我我那時候不懂<rt>yuán lái xīn téng wǒ wǒ nà shí hòu bù dǒng</rt></ruby></td>
+      <td nowrap="nowrap"><ruby>原來心疼我我那時候不懂<rt>yuán lái xīn téng wǒ wǒ nà shí hòu bù dǒng</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_B_RGC.wav"></audio></td>
@@ -123,14 +123,14 @@
       <td><audio controls="" preload="auto"><source src="sample/Po4_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td><ruby>到後來才發現愛你是一種習慣<rt>dào hòu lái cái fā xiàn ài nǐ shì yī zhǒng xí guàn</rt></ruby></td>
+      <td nowrap="nowrap"><ruby>到後來才發現愛你是一種習慣<rt>dào hòu lái cái fā xiàn ài nǐ shì yī zhǒng xí guàn</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_GT.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_base.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RGC.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td><ruby>可是我真的不夠勇敢<rt>kě shì wǒ zhēn de bù gòu yǒng gǎn</rt></ruby></td>
+      <td nowrap="nowrap"><ruby>可是我真的不夠勇敢<rt>kě shì wǒ zhēn de bù gòu yǒng gǎn</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_GT2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_base2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po2_B_RGC2.wav"></audio></td>
@@ -238,19 +238,7 @@
       <td><audio controls="" preload="auto"><source src="sample/Po2_VB_RTL.wav"></audio></td>
     </tr>
     <tr>
-      <td nowrap="nowrap">
-       <ruby>原<rt>yuán</rt></ruby>
-       <ruby>來<rt>lái</rt></ruby>
-       <ruby>心<rt>xīn</rt></ruby>
-       <ruby>疼<rt>téng</rt></ruby>
-       <ruby>我<rt>wǒ</rt></ruby>
-       <ruby>我<rt>wǒ</rt></ruby>
-       <ruby>那<rt>nà</rt></ruby>
-       <ruby>時<rt>shí</rt></ruby>
-       <ruby>候<rt>hòu</rt></ruby>
-       <ruby>不<rt>bù</rt></ruby>
-       <ruby>懂<rt>dǒng</rt></ruby>
-      </td>
+      <td nowrap="nowrap"><ruby>原來心疼我我那時候不懂<rt>yuán lái xīn téng wǒ wǒ nà shí hòu bù dǒng</rt></ruby></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_GT2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_base2.wav"></audio></td>
       <td><audio controls="" preload="auto"><source src="sample/Po1_VB_RGC2.wav"></audio></td>
