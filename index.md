@@ -250,9 +250,7 @@
 ## Comparison with Different Vocoders
 <div style="text-align: justify"> In this section, we further present reference samples of different vocoders for each singing technique to show the trade-off between the overall audio quality and the characteristics of singing technique. 
 </div>
-
-**Lyrics**
-<div style="text-align: justify"> <ruby>我不知進退<rt>wǒ bù zhī jìn tuì</rt></ruby></div>
+**<div style="text-align: justify"> Lyrics: <ruby>我不知進退<rt>wǒ bù zhī jìn tuì</rt></ruby></div>**
 
 
 
