@@ -269,20 +269,20 @@
    <tr>
       <td>Ground Truth</td>
       <td><audio controls="" preload="auto"><source src="vocoder_sample/GT_Breathy.wav"></audio></td>
-      <td><audio controls="" preload="auto"><source src="sample/GT_VocalFry.wav"></audio></td>
-      <td><audio controls="" preload="auto"><source src="sample/GT_Vibrato.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="vocoder_sample/GT_VocalFry.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="vocoder_sample/GT_Vibrato.wav"></audio></td>
     </tr>
     <tr>
       <td>HF</td>
       <td><audio controls="" preload="auto"><source src="vocoder_sample/HF_Breathy.wav"></audio></td>
-      <td><audio controls="" preload="auto"><source src="sample/HF_VocalFry.wav"></audio></td>
-      <td><audio controls="" preload="auto"><source src="sample/HF_Vibrato.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="vocoder_sample/HF_VocalFry.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="vocoder_sample/HF_Vibrato.wav"></audio></td>
     </tr>
     <tr>
       <td>MEL</td>
       <td><audio controls="" preload="auto"><source src="vocoder_sample/MEL_Breathy.wav"></audio></td>
-      <td><audio controls="" preload="auto"><source src="sample/MEL_VocalFry.wav"></audio></td>
-      <td><audio controls="" preload="auto"><source src="sample/MEL_Vibrato.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="vocoder_sample/MEL_VocalFry.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="vocoder_sample/MEL_Vibrato.wav"></audio></td>
     </tr>
   </tbody>
 </table>
