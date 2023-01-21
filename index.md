@@ -260,7 +260,7 @@
       <th>Type</th>
       <th>Breathy</th>
       <th>VocalFry</th>
-      <th>Vibrato/</th>
+      <th>Vibrato</th>
     </tr>
   </thead>
   <tbody>
