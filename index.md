@@ -23,7 +23,7 @@
 
 
 ## Audio Samples
-<div style="text-align: justify"> All samples are synthesized with the pretrained vocoders, where the breathy singing is synthesized by the HiFi-GAN vocoder (denoted as HF) and the others are synthesized by the MelGAN vocoder. (denoted as MEL)</div>
+<div style="text-align: justify"> All samples are synthesized with the pretrained vocoders that are publicly available, where the breathy singing is synthesized by the HiFi-GAN vocoder (denoted as HF) and the others are synthesized by the MelGAN vocoder. (denoted as MEL)</div>
 
 **Target Singing Technique**
 <div style="text-align: justify"> Samples of singing tehchniques.</div>
@@ -247,3 +247,40 @@
   </tbody>
 </table>
 
+## Comparison with Different Vocoders
+<div style="text-align: justify"> In this section, we further present reference samples of different vocoders for each singing technique to show the trade-off between the overall audio quality and the characteristics of singing technique. </div>
+
+**Lyrics: **
+<ruby>我不知進退<rt>wǒ bù zhī jìn tuì</rt></ruby>
+
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Type</th>
+      <th>Breathy</th>
+      <th>VocalFry</th>
+      <th>Vibrato/</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td>Ground Truth</td>
+      <td><audio controls="" preload="auto"><source src="vocoder_sample/GT_Breathy.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/GT_VocalFry.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/GT_Vibrato.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>HF</td>
+      <td><audio controls="" preload="auto"><source src="vocoder_sample/HF_Breathy.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/HF_VocalFry.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/HF_Vibrato.wav"></audio></td>
+    </tr>
+    <tr>
+      <td>MEL</td>
+      <td><audio controls="" preload="auto"><source src="vocoder_sample/MEL_Breathy.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/MEL_VocalFry.wav"></audio></td>
+      <td><audio controls="" preload="auto"><source src="sample/MEL_Vibrato.wav"></audio></td>
+    </tr>
+  </tbody>
+</table>
