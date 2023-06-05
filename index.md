@@ -23,7 +23,7 @@
 
 
 ## Audio Samples
-<div style="text-align: justify"> All samples are synthesized with the pretrained vocoders that are publicly available, where the breathy singing is synthesized by the HiFi-GAN vocoder (denoted as HF) and the others are synthesized by the MelGAN vocoder. (denoted as MEL)</div>
+<div style="text-align: justify"> All samples are synthesized with the pretrained vocoders that are publicly available, where the breathy singing is synthesized by the HiFi-GAN vocoder (denoted as HF) and the others are synthesized by the MelGAN vocoder (denoted as MEL).</div>
 
 **Target Singing Technique**
 <div style="text-align: justify"> Samples of singing tehchniques.</div>
