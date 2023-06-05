@@ -1,10 +1,10 @@
-# <center>A FEW SHOT LEARNING OF SINGING TECHNIQUE CONVERSION BASED ON CYCLE CONSISTENCY GENERATIVE ADVERSARIAL NETWORKS</center>
+# <center>MSN-STC: A FEW SHOT LEARNING OF SINGING TECHNIQUE CONVERSION BASED ON CYCLE CONSISTENCY GENERATIVE ADVERSARIAL NETWORKS</center>
 <center>Po-Wei Chen, Von-Wen Soo</center><br>
 <center>NTHU, Taiwan, R.O.C</center> 
 <br>
 
 ## Abstract
-<div style="text-align: justify"> We adopt the recent cycle consistent generative adversar- ial network (MaskCycleGAN-VC) that allows converting a specific singing technique using only a few articulations of singing voice as examples. Since it is often prone to fail to preserve the content information of the singing voice due to distortion and noise during the conversion, a self-supervised learning module is proposed as the basic framework to en- force content consistency without additional annotations. We evaluate the proposed methods on three datasets that were commonly used in pop songs which involve singing tech- niques in terms of breathy voice, vibrato, and vocal fry.
+<div style="text-align: justify"> We adopt the recent cycle consistent generative adversarial network (MaskCycleGAN-VC) that allows converting a specific singing technique using only a few articulations of singing voice as examples. Since it is often prone to fail to preserve the content information of the singing voice due to distortion and noise during the conversion, a Multi-task Self-supervised learning Network (MSN) is proposed to enforce content consistency without additional annotations. We evaluate the proposed methods on three datasets that were commonly used in pop songs which involve singing techniques in terms of breathy voice, vibrato, and vocal fry.
 
  </div>
 
