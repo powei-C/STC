@@ -1,7 +1,6 @@
 # <center>MSN-STC: A FEW SHOT LEARNING OF SINGING TECHNIQUE CONVERSION BASED ON CYCLE CONSISTENCY GENERATIVE ADVERSARIAL NETWORKS</center>
 <center>Po-Wei Chen, Von-Wen Soo</center><br>
 <center>NTHU, Taiwan, R.O.C</center><br>
-<center>Summit to ICASSP2023. Accepted.</center><br>
 
 
 ## Abstract
