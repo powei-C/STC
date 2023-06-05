@@ -4,7 +4,7 @@
 <br>
 
 ## Abstract
-<div style="text-align: justify"> Submit to ICASSP 2023. Under Review
+<div style="text-align: justify"> We adopt the recent cycle consistent generative adversar- ial network (MaskCycleGAN-VC) that allows converting a specific singing technique using only a few articulations of singing voice as examples. Since it is often prone to fail to preserve the content information of the singing voice due to distortion and noise during the conversion, a self-supervised learning module is proposed as the basic framework to en- force content consistency without additional annotations. We evaluate the proposed methods on three datasets that were commonly used in pop songs which involve singing tech- niques in terms of breathy voice, vibrato, and vocal fry.
 
  </div>
 
@@ -14,7 +14,7 @@
 <table border="0">
   <tbody>
     <tr>
-      <td><img src="figs/Proposed_FW.pdf" alt="Details of the framework are presented in our manuscript."></td>
+      <td><img src="MSN-STC.png" alt="Details of the framework are presented in our manuscript which is accepted by ICASSP 2023."></td>
     </tr>
   </tbody>
 </table>
